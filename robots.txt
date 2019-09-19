@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vouvaetux.airquill.io/sitemap.xml
